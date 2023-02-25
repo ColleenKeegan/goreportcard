@@ -54,15 +54,14 @@ github.com/prometheus/common/model
 ## explicit
 github.com/prometheus/procfs
 github.com/prometheus/procfs/xfs
-# golang.org/x/net v0.0.0-20200927032502-5d4f70055728
+# golang.org/x/net v0.7.0
 ## explicit
 golang.org/x/net/internal/timeseries
 golang.org/x/net/trace
-# golang.org/x/sys v0.0.0-20200926100807-9d91bd62050c
-## explicit
-golang.org/x/sys/internal/unsafeheader
+# golang.org/x/sys v0.5.0
+golang.org/x/sys/execabs
 golang.org/x/sys/unix
-# golang.org/x/tools v0.0.0-20190628034336-212fb13d595e
+# golang.org/x/tools v0.1.12
 ## explicit
 golang.org/x/tools/go/vcs
 # google.golang.org/protobuf v1.25.0
